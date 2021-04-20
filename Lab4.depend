@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1585597830 source:c:\users\user\desktop\facultate\oop_sem_2\lab4\expense.cpp
+	"Expense.h"
+	<cstddef>
+	<string.h>
+	<ostream>
+	<iostream>
+	<cstring>
+	<string>
+
+1585444425 c:\users\user\desktop\facultate\oop_sem_2\lab4\expense.h
+	<ostream>
+
+1585683794 source:c:\users\user\desktop\facultate\oop_sem_2\lab4\main.cpp
+	"Test_Expense.h"
+	"Test_Repo.h"
+	"Test_Service.h"
+	"UI.h"
+	"Service.h"
+	"Repo.h"
+	"Expense.h"
+	<iostream>
+
+1585597067 c:\users\user\desktop\facultate\oop_sem_2\lab4\test_expense.h
+
+1585777974 source:c:\users\user\desktop\facultate\oop_sem_2\lab4\repo.cpp
+	"Repo.h"
+	"Expense.h"
+
+1585777974 c:\users\user\desktop\facultate\oop_sem_2\lab4\repo.h
+	"Expense.h"
+
+1585672477 source:c:\users\user\desktop\facultate\oop_sem_2\lab4\test_expense.cpp
+	"Test_Expense.h"
+	"Expense.h"
+	<assert.h>
+	<cstring>
+
+1585672477 source:c:\users\user\desktop\facultate\oop_sem_2\lab4\test_repo.cpp
+	"Test_Repo.h"
+	"Repo.h"
+	"Expense.h"
+	<assert.h>
+	<cstring>
+
+1585597067 c:\users\user\desktop\facultate\oop_sem_2\lab4\test_repo.h
+
+1585683107 c:\users\user\desktop\facultate\oop_sem_2\lab4\test_service.h
+
+1585776817 source:c:\users\user\desktop\facultate\oop_sem_2\lab4\service.cpp
+	"Repo.h"
+	"Expense.h"
+	"Service.h"
+	<time.h>
+	<bits/stdc++.h>
+	<cstring>
+
+1585774917 c:\users\user\desktop\facultate\oop_sem_2\lab4\service.h
+	<bits/stdc++.h>
+	"Repo.h"
+
+1585683116 source:c:\users\user\desktop\facultate\oop_sem_2\lab4\test_service.cpp
+	"Test_Service.h"
+	"Service.h"
+	<assert.h>
+	<cstring>
+	"time.h"
+
+1585773504 c:\users\user\desktop\facultate\oop_sem_2\lab4\ui.h
+	"Service.h"
+
+1585774946 source:c:\users\user\desktop\facultate\oop_sem_2\lab4\ui.cpp
+	"UI.h"
+	"Service.h"
+	<iostream>
+
+1585597830 source:d:\hax\code blockz\lab4\expense.cpp
+	"Expense.h"
+	<cstddef>
+	<string.h>
+	<ostream>
+	<iostream>
+	<cstring>
+	<string>
+
+1585444425 d:\hax\code blockz\lab4\expense.h
+	<ostream>
+
+1585683794 source:d:\hax\code blockz\lab4\main.cpp
+	"Test_Expense.h"
+	"Test_Repo.h"
+	"Test_Service.h"
+	"UI.h"
+	"Service.h"
+	"Repo.h"
+	"Expense.h"
+	<iostream>
+
+1585597067 d:\hax\code blockz\lab4\test_expense.h
+
+1585597067 d:\hax\code blockz\lab4\test_repo.h
+
+1585683107 d:\hax\code blockz\lab4\test_service.h
+
+1585773504 d:\hax\code blockz\lab4\ui.h
+	"Service.h"
+
+1585821638 d:\hax\code blockz\lab4\service.h
+	<bits/stdc++.h>
+	"Repo.h"
+
+1585777974 d:\hax\code blockz\lab4\repo.h
+	"Expense.h"
+
+1585777974 source:d:\hax\code blockz\lab4\repo.cpp
+	"Repo.h"
+	"Expense.h"
+
+1585821688 source:d:\hax\code blockz\lab4\service.cpp
+	"Repo.h"
+	"Expense.h"
+	"Service.h"
+	<time.h>
+	<bits/stdc++.h>
+	<cstring>
+
+1585672477 source:d:\hax\code blockz\lab4\test_expense.cpp
+	"Test_Expense.h"
+	"Expense.h"
+	<assert.h>
+	<cstring>
+
+1585672477 source:d:\hax\code blockz\lab4\test_repo.cpp
+	"Test_Repo.h"
+	"Repo.h"
+	"Expense.h"
+	<assert.h>
+	<cstring>
+
+1585683116 source:d:\hax\code blockz\lab4\test_service.cpp
+	"Test_Service.h"
+	"Service.h"
+	<assert.h>
+	<cstring>
+	"time.h"
+
+1585821810 source:d:\hax\code blockz\lab4\ui.cpp
+	"UI.h"
+	"Service.h"
+	<iostream>
+
